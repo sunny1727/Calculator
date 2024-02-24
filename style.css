@@ -3,7 +3,7 @@ html, body {
   height: 100%;
   width: 100%;
   font-family: 'Roboto', sans-serif; 
-  background-color: blanchedalmond;
+  background-color: rgb(206, 217, 228);
 }
 
 .button{
@@ -16,7 +16,7 @@ html, body {
   background-color: rgb(168, 180, 176);
 }
 .text-center{
-    color: brown;
+    color: rgb(49, 18, 99);
 }
 
 .row{
